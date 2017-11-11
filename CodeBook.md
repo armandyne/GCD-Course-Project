@@ -17,6 +17,77 @@ Output files names:
 - UCI_HAR_Average_Cleaned.txt
 - UCI_HAR_Cleaned.txt
 
+Variables:
+
+     subject 
+     activity 
+     tbodyaccmeanx 
+     tbodyaccmeany 
+     tbodyaccmeanz 
+     tbodyaccstdx 
+     tbodyaccstdy 
+     tbodyaccstdz 
+     tgravityaccmeanx 
+     tgravityaccmeany 
+     tgravityaccmeanz 
+     tgravityaccstdx 
+     tgravityaccstdy 
+     tgravityaccstdz 
+     tbodyaccjerkmeanx 
+     tbodyaccjerkmeany 
+     tbodyaccjerkmeanz 
+     tbodyaccjerkstdx 
+     tbodyaccjerkstdy 
+     tbodyaccjerkstdz 
+     tbodygyromeanx 
+     tbodygyromeany 
+     tbodygyromeanz 
+     tbodygyrostdx 
+     tbodygyrostdy 
+     tbodygyrostdz 
+     tbodygyrojerkmeanx 
+     tbodygyrojerkmeany 
+     tbodygyrojerkmeanz 
+     tbodygyrojerkstdx 
+     tbodygyrojerkstdy 
+     tbodygyrojerkstdz 
+     tbodyaccmagmean 
+     tbodyaccmagstd 
+     tgravityaccmagmean 
+     tgravityaccmagstd 
+     tbodyaccjerkmagmean 
+     tbodyaccjerkmagstd 
+     tbodygyromagmean 
+     tbodygyromagstd 
+     tbodygyrojerkmagmean 
+     tbodygyrojerkmagstd 
+     fbodyaccmeanx 
+     fbodyaccmeany 
+     fbodyaccmeanz 
+     fbodyaccstdx 
+     fbodyaccstdy 
+     fbodyaccstdz 
+     fbodyaccjerkmeanx 
+     fbodyaccjerkmeany 
+     fbodyaccjerkmeanz 
+     fbodyaccjerkstdx 
+     fbodyaccjerkstdy 
+     fbodyaccjerkstdz 
+     fbodygyromeanx 
+     fbodygyromeany 
+     fbodygyromeanz 
+     fbodygyrostdx 
+     fbodygyrostdy 
+     fbodygyrostdz 
+     fbodyaccmagmean 
+     fbodyaccmagstd 
+     fbodybodyaccjerkmagmean 
+     fbodybodyaccjerkmagstd 
+     fbodybodygyromagmean 
+     fbodybodygyromagstd 
+     fbodybodygyrojerkmagmean 
+     fbodybodygyrojerkmagstd
+
 Steps to clean a source dataset:
 
 - extracts only the measurements on the mean and standard deviation for each measurement
